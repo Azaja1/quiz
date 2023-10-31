@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1627991347 source:c:\users\ja\desktop\quiz\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+
+1627988370 source:c:\users\ja\desktop\c++\quiz\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+
